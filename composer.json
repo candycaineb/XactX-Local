@@ -1,0 +1,13 @@
+{
+    "name": "twoonesixdigital/xactx-print-design-tool",
+    "description": "A print design tool that generates print ready PDFs from HTML and CSS and provides a live preview.",
+    "authors": [
+        {
+            "name": "Justin Sims",
+            "email": "justin@216digital.com"
+        }
+    ],
+    "require": {
+        "mikehaertl/phpwkhtmltopdf": "^2.4"
+    }
+}
